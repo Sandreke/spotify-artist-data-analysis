@@ -27,7 +27,7 @@ On the contrary, if your artist analysis involves only one stage, I recommend us
 
 After performing data manipulation and analysis, the Plotly library is used to plot a total of 8 graphs like the one below.
 
-<img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCWYRITTPMZ7P63JP7CZOAIPWQ" width="700">
+<img src="https://private-user-images.githubusercontent.com/64377961/302167837-bcac8b2a-dcf1-4c6a-aed1-52f1bb3e1cea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxMDQyNzIsIm5iZiI6MTcwNzEwMzk3MiwicGF0aCI6Ii82NDM3Nzk2MS8zMDIxNjc4MzctYmNhYzhiMmEtZGNmMS00YzZhLWFlZDEtNTJmMWJiM2UxY2VhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA1VDAzMzI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmZTJiYmY5MjYyZDBkZTY1YTBiNjQ3MTI0Njk5OWRlZjMxMjVmZjcxNTFhMGRlOGM5MmNjYzVmOWFiYTE0NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.UETfhkw0tu7Ke7fdG5het2fRXNqTwIYWoS9-zo2tPsk" width="700">
 
 ![YT (30)](https://github.com/Sandreke/spotify-artist-data-analysis/assets/64377961/bcac8b2a-dcf1-4c6a-aed1-52f1bb3e1cea)
 
