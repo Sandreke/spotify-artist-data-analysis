@@ -11,7 +11,7 @@ This is a step-by-step project that will guide you with the explanation of each 
 
 In order to carry out this project it is necessary to access the [Spotify API](https://developer.spotify.com/) to get these 2 necessary credentials. This [tutorial](https://youtu.be/j4J7B1C3G0U) shows easily how to do it. 
 
-<img src="https://raw.githubusercontent.com/Sandreke/spotify-artist-data-analysis/main/Resources/Spotify_Credentials.png" width="300">
+<img src="https://raw.githubusercontent.com/Sandreke/spotify-artist-data-analysis/main/Resources/Spotify_Credentials.png" width="400">
 
 ### 🔎 Use case: 
 
