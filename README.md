@@ -11,7 +11,7 @@ This is a step-by-step project that will guide you with the explanation of each 
 
 In order to carry out this project it is necessary to access the [Spotify API](https://developer.spotify.com/) to get these 2 necessary credentials. This [tutorial](https://youtu.be/j4J7B1C3G0U) shows easily how to do it. 
 
-<img src="https://raw.githubusercontent.com/Sandreke/spotify-artist-data-analysis/main/Resources/Spotify_Credentials.png" width="500">
+<img src="https://raw.githubusercontent.com/Sandreke/spotify-artist-data-analysis/main/Resources/Spotify_Credentials.png" width="300">
 
 ### 🔎 Use case: 
 
@@ -27,6 +27,6 @@ On the contrary, if your artist analysis involves only one stage, I recommend us
 
 After performing data manipulation and analysis, the Plotly library is used to plot a total of 8 graphs like the one below.
 
-<img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCWYRITTPMZ7P63JP7CZOAIPWQ" width="500">
+<img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCWYRITTPMZ7P63JP7CZOAIPWQ" width="700">
 
 It is recommended to watch this [video](https://youtu.be/AUzmhBq0Mc0) to see all the graphs you can make, since they cannot be seen on the notebook because Plotly graphs are not static HTML.
