@@ -5,14 +5,15 @@ This project aims to perform data analysis and visualization of your favorite ar
 
 ## 🎥 Tutorial: [YouTube](https://youtu.be/AUzmhBq0Mc0)
 
-This is a step by step project that will guide you with the explanation of each part of the [code](https://github.com/Sandreke/spotify-artist-data-analysis/blob/main/pedro-su%C3%A1rez-v%C3%A9rtiz.ipynb)
+This is a step-by-step project that will guide you with the explanation of each part of the [code](https://github.com/Sandreke/spotify-artist-data-analysis/blob/main/pedro-su%C3%A1rez-v%C3%A9rtiz.ipynb)
 
 ### 🔑 Get credentials: 
 
 In order to carry out this project it is necessary to access the [Spotify API](https://developer.spotify.com/) to get these 2 necessary credentials.
-![Spotify_Credentials](https://github.com/Sandreke/spotify-artist-data-analysis/assets/64377961/5ef7b4ca-e596-4c3e-88bb-8eeb769f9e96)
 
-This tutorial shows easily how to do it: [YouTube](https://youtu.be/j4J7B1C3G0U)
+<img src="https://raw.githubusercontent.com/Sandreke/spotify-artist-data-analysis/main/Resources/Spotify_Credentials.png" width="500">
+
+🎶 This tutorial shows easily how to do it: [YouTube](https://youtu.be/j4J7B1C3G0U)
 
 ### 🔎 Use case: 
 
