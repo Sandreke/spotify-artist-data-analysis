@@ -29,4 +29,7 @@ After performing data manipulation and analysis, the Plotly library is used to p
 
 <img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCWYRITTPMZ7P63JP7CZOAIPWQ" width="700">
 
+![YT (30)](https://github.com/Sandreke/spotify-artist-data-analysis/assets/64377961/bcac8b2a-dcf1-4c6a-aed1-52f1bb3e1cea)
+
+
 It is recommended to watch this [video](https://youtu.be/AUzmhBq0Mc0) to see all the graphs you can make, since they cannot be seen on the notebook because Plotly graphs are not static HTML.
