@@ -27,6 +27,6 @@ On the contrary, if your artist analysis involves only one stage, I recommend us
 
 After performing data manipulation and analysis, the Plotly library is used to plot a total of 8 graphs like the one below.
 
-<img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCXZS44BUZFLAOHVDEUZOAIFLA" width="500">
+<img src="https://raw.githubusercontent.com/Sandreke/random-things/main/YT%20(30).png?token=GHSAT0AAAAAACMNFSCWYRITTPMZ7P63JP7CZOAIPWQ" width="500">
 
 It is recommended to watch this [video](https://youtu.be/AUzmhBq0Mc0) to see all the graphs you can make, since they cannot be seen on the notebook because Plotly graphs are not static HTML.
