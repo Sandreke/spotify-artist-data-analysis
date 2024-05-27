@@ -1,7 +1,7 @@
 # spotify-artist-data-analysis
 
 
-This project aims to perform data analysis and visualization of your favorite artist with [Python](https://www.python.org/) using data from albums (both album and single), album type, release year, songs on albums, artists on songs (there may be collaborations), the length of the songs and the popularity of the songs on [Spotify API](https://developer.spotify.com/).
+This project aims to perform data analysis and visualization of your favorite artist on [Spotify](https://developer.spotify.com/) with [Python](https://www.python.org/) using data from albums (both album and single), album type, release year, songs on albums, artists on songs (there may be collaborations), the length of the songs and the popularity of the songs.
 
 ## 🎥 Tutorial: [YouTube](https://youtu.be/AUzmhBq0Mc0)
 
